@@ -5,7 +5,7 @@
 - 📫 How to reach me
 -     email : usmanhammed537@gmail.com
 -     linkedIn : https://www.linkedin.com/in/hammed-usman-3657432a8/
--     Whatsapp : Coming Soon
+-     Whatsapp : https://wa.me/message/SIQFWCRQPL3BO1
 -    Tech Stack includes:
 -    HTML
 -    CSS
