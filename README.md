@@ -7,7 +7,7 @@
 -     linkedIn : https://www.linkedin.com/in/hammed-usman-3657432a8/
 -     Whatsapp : https://wa.me/message/SIQFWCRQPL3BO1
 
- <h3> Tech Stack includes:</h3> 
+- Tech Stack includes:
 -    HTML
 -    CSS
 -    JAVASCRIPT
