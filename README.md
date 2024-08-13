@@ -6,8 +6,8 @@
 -     email : usmanhammed537@gmail.com
 -     linkedIn : https://www.linkedin.com/in/hammed-usman-3657432a8/
 -     Whatsapp : https://wa.me/message/SIQFWCRQPL3BO1
-- <h1>Haa</h1>
--    Tech Stack includes:
+
+ <h3> Tech Stack includes:</h3> 
 -    HTML
 -    CSS
 -    JAVASCRIPT
