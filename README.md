@@ -20,7 +20,7 @@
 -    API'S INTEGRATION
 -  Projects:
 - Weather forecaster
-- JOB listing site -- coming soon
+- JOB listing site 
 - Todo App
 - Calculator
 - Counter
