@@ -1,6 +1,5 @@
 - <h1 className='text-center'>👋 Hi, I’m Hammed Usman (@Hammedxx455555555)</h1>
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning  Material UI
+- 👀 I’m interested in some web Development Jobs
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me
 -     email : usmanhammed537@gmail.com
